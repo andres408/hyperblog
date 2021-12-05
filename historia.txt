@@ -1,6 +1,7 @@
 Esta es la historia de Andres Felipe
 
-Andres tiene 42 años nacio en Cali, clinica de occidente a las 11:55 pm.
+Andres tiene 41 años nacio en Cali, clinica de occidente a las 11:35 pm.
 
 Hoy hablaremos de su historia.
 
+Y para aprender bien quiero ver los cambios en mi git
